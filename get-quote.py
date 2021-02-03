@@ -8,7 +8,7 @@ f.close()
 print(quotes[0])
 
 if __name__== "__main__":
-  main(imhungry)
+  main()
 
 print("Keep it logically awesome.")
 
