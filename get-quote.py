@@ -1,3 +1,8 @@
+last = 13
+  rnd = random.randint(0, last)
+
+import random
+
 def main():
 print("Keep it logically awesome.")
 
